@@ -11,4 +11,4 @@
 `npm install`  
 `npm run dev` 
 
-![](https://github.com/ED4M/business-site/screenshot.PNG)
+![screeenshot](https://github.com/ED4M/business-site/blob/master/screenshot.png)
