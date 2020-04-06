@@ -7,5 +7,8 @@
 + Webpack;
 
 **Запуск в режиме разработки**
+
 `npm install`  
 `npm run dev` 
+
+![](https://github.com/ED4M/business-site/blob/master/screenshot.PNG)
